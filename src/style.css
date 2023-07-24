@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://w0.peakpx.com/wallpaper/52/921/HD-wallpaper-bitcoin-neon-lights-electronic-money-blue-background-crypto-currency-creative.jpg');
+    background-size:1350px;
+    
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: navy;
+    color: white;
+    padding: 15px;
+    font-size: 2em;
+    
+    
+}
+
+a{
+text-align: center;
+font-size: 24px;
+font-weight: bold;
+color: white;
+}
